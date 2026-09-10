@@ -26,11 +26,25 @@ Currently exploring **ethical hacking, automation, web development and cybersecu
 
 ### 😈 Devil Arc
 
-**Devil Arc** is a gamified fitness tracking web application that transforms training progress into an RPG-inspired progression system.
+**Gamified Fitness Tracking Platform**
 
-It includes workout tracking, XP progression, levels, ranks, streaks, personal records and progress analytics.
+Devil Arc transforms workout tracking into an RPG-inspired progression system built around consistency, progression and performance.
 
-[View Devil Arc Repository](https://github.com/notariomay/devil-arc)
+<p align="center">
+  <a href="https://github.com/notariomay/devil-arc">
+    <img src="https://raw.githubusercontent.com/notariomay/devil-arc/main/docs/screenshots/dashboard.png" alt="Devil Arc Dashboard" width="100%">
+  </a>
+</p>
+
+<p align="center">
+  <strong>Workout Tracking • XP System • Levels • Ranks • Streaks • Progress Analytics</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/notariomay/devil-arc">
+    <strong>⚔️ View Devil Arc Repository</strong>
+  </a>
+</p>
 
 ---
 
