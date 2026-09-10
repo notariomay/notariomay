@@ -1,4 +1,7 @@
-# William Notario May
+<p align="center">
+  <img src="./profile-banner.png" alt="William Notario May | Software Development, Cybersecurity & Automation" width="100%">
+</p>
+
 
 ### Software Developer | Cybersecurity Enthusiast 🛡️
 
