@@ -2,7 +2,7 @@
 
 ### Software Developer | Cybersecurity Enthusiast 🛡️
 
-I'm a Computer Systems Engineering graduate focused on software development, cybersecurity and building practical projects.
+I'm a Computer Systems Engineering professional focused on software development, cybersecurity and building practical projects.
 
 Currently exploring **ethical hacking, automation, web development and cybersecurity**, while developing projects that combine technology with things I'm genuinely interested in.
 
