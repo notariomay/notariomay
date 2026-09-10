@@ -36,17 +36,25 @@ It includes workout tracking, XP progression, levels, ranks, streaks, personal r
 
 ## 🛠️ Tech Stack
 
-### Languages & Development
+### Languages
 
-`Python` `JavaScript` `HTML` `CSS` `SQL`
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" alt="Python, JavaScript, HTML and CSS" />
+</p>
 
-### Tools & Technologies
+### Tools & Databases
 
-`Git` `GitHub` `VS Code` `MySQL` `Linux`
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" alt="Git, GitHub, VS Code and MySQL" />
+</p>
 
-### Currently Learning
+### Cybersecurity & Systems
 
-`Cybersecurity` `Ethical Hacking` `Networking` `Web Security`
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,kali" alt="Linux and Kali Linux" />
+</p>
+
+**Currently learning:** Cybersecurity • Ethical Hacking • Networking • Web Security
 
 ---
 
